@@ -1,0 +1,3 @@
+[submodule "libs/hdd_common"]
+	path = libs/hdd_common
+	url = https://github.com/wswswawa/hbb_common
